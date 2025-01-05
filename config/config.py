@@ -17,7 +17,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "lx44kk")
 BOT_USERNAME = getenv("BOT_USERNAME", "syn_ixbot")
 
 #❖  Don't Add style font 
-BOT_NAME = getenv("BOT_NAME", "TANU MUSIC")
+BOT_NAME = getenv("BOT_NAME", "Qᴜʙʏ MUSIC")
 
 #❖ get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME", "TANU_ASS")
