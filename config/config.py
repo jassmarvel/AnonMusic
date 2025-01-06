@@ -95,10 +95,10 @@ START_IMG_URL = getenv(
     "START_IMG_URL", "https://envs.sh/sQm.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://imgur.com/a/cP8DwFY"
+    "PING_IMG_URL", "https://envs.sh/sQ-.gif"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/7795e58425337d0455e95.jpg"
-STATS_IMG_URL = "https://imgur.com/a/JvzIchx"
+STATS_IMG_URL = "https://envs.sh/sQ-.gif"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/d2081243af7c1d7578b7b.jpg"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/d2081243af7c1d7578b7b.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/982b01ba53c3d69b0d0ce.jpg"
